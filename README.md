@@ -3,4 +3,4 @@ Hi Devs,
 
 This repo contains python solutions for hackerrank.
 
-Level: Hard
+
